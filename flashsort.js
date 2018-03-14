@@ -1,4 +1,4 @@
-//testing
+//flashsort is powerful than quick sort
 function flashsort(a) {
     var max = 0;
     var min = a[0];
